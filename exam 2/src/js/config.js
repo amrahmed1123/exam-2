@@ -1,0 +1,9 @@
+export const API_BASE_URL = "https://nutriplan-api.vercel.app/api";
+export const USDA_API_KEY = "9rhpFr89rtzBKcDcNfwKFpm9GFhQPdhDthhTkB9q";
+export const KEY_STORAGE = "nutriplan-usda-key";
+export const LOG_STORAGE = "nutriplan-food-log";
+export const RECIPES_LIMIT = 25;
+export const PRODUCTS_LIMIT = 24;
+export const DEFAULT_SERVINGS = 4;
+export const DAILY_GOALS = { calories: 2000, protein: 50, carbs: 250, fat: 65 };
+export const NUTRITION_STORAGE = "nutriplan-nutrition-cache";
